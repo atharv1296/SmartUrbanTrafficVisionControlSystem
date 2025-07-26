@@ -135,6 +135,6 @@ traffic_management_system/
 ---
 
 ### **Screenshot**
-![Traffic System Demo](Photos\Screenshot 2025-07-27 005640.png) *(Example visualization of vehicle detection)*
+![Traffic System Demo](Photos/Screenshot%202025-07-27%20005640.png) *(Example visualization of vehicle detection)*
 
 ---
